@@ -1,0 +1,20 @@
+{
+  "entityTypes": [
+    "Company",
+    "Individual"
+  ],
+  "shareTypes": [
+    "Public/Private Limited Company",
+    "Limited Liability Company",
+    "Limited Partnership",
+    "Limited Liability Partnership"
+  ],
+  "relationshipCompany": [
+    "Parent",
+    "Subsidiary"
+  ],
+  "relationshipIndividual": [
+    "Owner",
+    "Controller"
+  ]
+}
